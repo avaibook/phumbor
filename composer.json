@@ -1,6 +1,6 @@
 {
-    "name": "webfactory/phumbor",
-    "description": "A minimal Thumbor library for PHP",
+    "name": "avaibook/phumbor",
+    "description": "A minimal Thumbor library for PHP (webfactory/phumbor)",
     "homepage": "https://github.com/webfactory/phumbor",
     "keywords": [
         "php", "thumbor", "thumbnails", "webfactory"
